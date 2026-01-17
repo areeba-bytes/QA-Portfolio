@@ -1,0 +1,6 @@
+Both Selenium and Cypress CI/CD pipelines automate test execution on code commits, running tests in headless browsers 
+and generating comprehensive HTML reports with visual evidence (screenshots/videos) of test results. These pipelines 
+support multiple triggers (commit, scheduled, manual, PR), provide instant feedback to development teams through automated 
+notifications, and ensure continuous quality validation before code reaches production environments.
+**Link:** https://docs.google.com/document/d/11CIeK7lfQqaLTYookNlcu8TknFpEPdQ0DKSh1ZlZmxs/edit?usp=sharing
+
